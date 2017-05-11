@@ -1,3 +1,7 @@
-p {
-    color: blue;
+$space: 16px;
+$bgc:pink;
+
+.mon-composant {
+    position: relative;
+    padding: 16px;
 }
